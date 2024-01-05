@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 swadhin1515/node is built on the following main stack:
+
 - [Chartio](https://chartio.com) – Business Intelligence
 - [Coveralls](https://coveralls.io/) – Code Coverage
 - [Buffer](https://bufferapp.com/) – Social Media Tools
@@ -58,11 +59,13 @@ swadhin1515/node is built on the following main stack:
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 swadhin1515/node is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/9/TtrFaQ3j_400x400.png' alt='Chartio'/> [Chartio](https://chartio.com) – Business Intelligence
 - <img width='25' height='25' src='https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png' alt='Coveralls'/> [Coveralls](https://coveralls.io/) – Code Coverage
 - <img width='25' height='25' src='https://img.stackshare.io/service/825/hnc3q-7x.jpg' alt='Buffer'/> [Buffer](https://bufferapp.com/) – Social Media Tools
@@ -119,14 +122,15 @@ swadhin1515/node is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [swadhin1515/node](https://github.com/swadhin1515/node)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|344<br/>Tools used|11/10/23 <br/>Report generated|
+|349<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -707,9 +711,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (277)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (282)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (277)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (282)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -768,6 +772,7 @@ Full tech stack [here](/techstack.md)
 |[callsite](https://www.npmjs.com/callsite)|N/A|01/07/23|swadhin1515 |MIT|N/A|
 |[chai-as-promised](https://www.npmjs.com/chai-as-promised)|v7.1.1|01/07/23|swadhin1515 |WTFPL|N/A|
 |[chai-string](https://www.npmjs.com/chai-string)|v1.3.0|01/07/23|swadhin1515 |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v2.4.2|01/07/23|swadhin1515 |MIT|N/A|
 |[cheerio](https://www.npmjs.com/cheerio)|v1.0.0|01/07/23|swadhin1515 |MIT|N/A|
 |[cli](https://www.npmjs.com/cli)|N/A|01/07/23|swadhin1515 |MIT|N/A|
 |[co](https://www.npmjs.com/co)|N/A|01/07/23|swadhin1515 |MIT|N/A|
@@ -849,6 +854,7 @@ Full tech stack [here](/techstack.md)
 |[http](https://www.npmjs.com/http)|N/A|01/07/23|swadhin1515 |BSD-2-Clause|N/A|
 |[https](https://www.npmjs.com/https)|N/A|01/07/23|swadhin1515 |ISC|N/A|
 |[https-proxy-agent](https://www.npmjs.com/https-proxy-agent)|v5.0.1|01/07/23|swadhin1515 |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v8.0.1|01/07/23|swadhin1515 |MIT|N/A|
 |[hyperquest](https://www.npmjs.com/hyperquest)|v2.1.3|01/07/23|swadhin1515 |MIT|N/A|
 |[i](https://www.npmjs.com/i)|N/A|01/07/23|swadhin1515 |MIT|N/A|
 |[ignore](https://www.npmjs.com/ignore)|N/A|01/07/23|swadhin1515 |MIT|N/A|
@@ -868,6 +874,7 @@ Full tech stack [here](/techstack.md)
 |[karma-mocha](https://www.npmjs.com/karma-mocha)|v1.3.0|01/07/23|swadhin1515 |MIT|N/A|
 |[kue](https://www.npmjs.com/kue)|N/A|01/07/23|swadhin1515 |MIT|N/A|
 |[level](https://www.npmjs.com/level)|N/A|01/07/23|swadhin1515 |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v13.0.2|01/07/23|swadhin1515 |MIT|N/A|
 |[log](https://www.npmjs.com/log)|N/A|01/07/23|swadhin1515 |ISC|N/A|
 |[lolex](https://www.npmjs.com/lolex)|v2.6.0|01/07/23|swadhin1515 |BSD-3-Clause|N/A|
 |[long](https://www.npmjs.com/long)|N/A|01/07/23|swadhin1515 |Apache-2.0|N/A|
@@ -929,6 +936,7 @@ Full tech stack [here](/techstack.md)
 |[rollup-plugin-terser](https://www.npmjs.com/rollup-plugin-terser)|v7.0.2|01/07/23|swadhin1515 |MIT|N/A|
 |[s3](https://www.npmjs.com/s3)|N/A|01/07/23|swadhin1515 |MIT|N/A|
 |[safe-buffer](https://www.npmjs.com/safe-buffer)|v5.2.1|01/07/23|swadhin1515 |MIT|N/A|
+|[semantic-release](https://www.npmjs.com/semantic-release)|v18.0.0|01/07/23|swadhin1515 |MIT|[CVE-2022-31051](https://github.com/advisories/GHSA-x2pg-mjhr-2m5x) (Moderate)|
 |[serve](https://www.npmjs.com/serve)|N/A|01/07/23|swadhin1515 |MIT|N/A|
 |[serve-index](https://www.npmjs.com/serve-index)|v1.9.1|01/07/23|swadhin1515 |MIT|N/A|
 |[shelljs](https://www.npmjs.com/shelljs)|v0.8.4|01/07/23|swadhin1515 |BSD-3-Clause|[CVE-2022-0144](https://github.com/advisories/GHSA-4rq4-32rv-6wp6) (High)<br/>[](https://github.com/advisories/GHSA-64g7-mvw6-v9qj) (Moderate)|
@@ -952,6 +960,7 @@ Full tech stack [here](/techstack.md)
 |[tar-stream](https://www.npmjs.com/tar-stream)|v2.2.0|01/07/23|swadhin1515 |MIT|N/A|
 |[temp](https://www.npmjs.com/temp)|N/A|01/07/23|swadhin1515 |MIT|N/A|
 |[terser](https://www.npmjs.com/terser)|N/A|01/07/23|swadhin1515 |BSD-2-Clause|N/A|
+|[test](https://www.npmjs.com/test)|N/A|01/07/23|swadhin1515 |MIT|N/A|
 |[through](https://www.npmjs.com/through)|v2.3.8|01/07/23|swadhin1515 |MIT|N/A|
 |[through2](https://www.npmjs.com/through2)|v4.0.2|01/07/23|swadhin1515 |MIT|N/A|
 |[ts-jest](https://www.npmjs.com/ts-jest)|v27.1.4|01/07/23|swadhin1515 |MIT|N/A|
@@ -994,4 +1003,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
