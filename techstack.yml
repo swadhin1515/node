@@ -1,11 +1,12 @@
 repo_name: swadhin1515/node
 report_id: 23460647a5b7adae9642a9d05048351f
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T07:20:45+00:00'
+timestamp: '2024-01-05T08:00:44+00:00'
 requested_by: swadhin1515
 provider: github
 branch: youtube-data-automation
-detected_tools_count: 344
+detected_tools_count: 349
 tools:
 - name: CoffeeScript
   description: A little language that compiles into JavaScript
@@ -17,7 +18,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1178/slQydAMv.png
-  detection_source_url: node_modules/error-ex/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/error-ex/package.json
   detection_source: node_modules/js-tokens/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -29,7 +30,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/3117/d-5.png
-  detection_source: node_modules/yauzl/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@babel/code-frame/package.json
+  detection_source: node_modules/@babel/code-frame/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: JavaScript
@@ -41,6 +43,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/swadhin1515/node
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -51,6 +54,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/parse-json/package.json
   detection_source: node_modules/parse-json/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -63,6 +67,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/safe-buffer/package.json
   detection_source: node_modules/safe-buffer/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -76,8 +81,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
-  detection_source_url: node_modules/agent-base/package.json
-  detection_source: node_modules/nth-check/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/agent-base/package.json
+  detection_source: node_modules/agent-base/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: ".NET"
@@ -90,7 +95,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
-  detection_source: node_modules/cross-fetch/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/agent-base/package.json
+  detection_source: node_modules/agent-base/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: C3.js
@@ -102,7 +108,8 @@ tools:
   category: Libraries
   sub_category: Charting Libraries
   image_url: https://img.stackshare.io/no-img-open-source.png
-  detection_source: node_modules/yauzl/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/buffer-crc32/package.json
+  detection_source: node_modules/buffer-crc32/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: ExpressJS
@@ -116,8 +123,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/1163/hashtag.png
-  detection_source_url: node_modules/cross-fetch/package.json
-  detection_source: node_modules/escape-string-regexp/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cross-fetch/package.json
+  detection_source: node_modules/cross-fetch/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: Less
@@ -129,7 +136,8 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/1170/default_957cbc0168b4d37265e264469c888f776e57f42c.png
-  detection_source: node_modules/puppeteer/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cross-fetch/package.json
+  detection_source: node_modules/cross-fetch/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: Next.js
@@ -140,7 +148,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/5936/nextjs.png
-  detection_source: node_modules/nth-check/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@babel/code-frame/package.json
+  detection_source: node_modules/@babel/code-frame/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: Node.js
@@ -152,7 +161,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
-  detection_source: node_modules/yauzl/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@babel/code-frame/package.json
+  detection_source: node_modules/@babel/code-frame/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: Prototype
@@ -163,6 +173,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/3597/o_bigger_400x400.png
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/is-arrayish/package.json
   detection_source: node_modules/is-arrayish/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -175,7 +186,8 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
-  detection_source: node_modules/https-proxy-agent/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/agent-base/package.json
+  detection_source: node_modules/agent-base/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: React Native
@@ -187,7 +199,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Cross-Platform Mobile Development
   image_url: https://img.stackshare.io/service/2699/KoK6gHzp.jpg
-  detection_source: node_modules/cross-fetch/polyfill/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cross-fetch/package.json
+  detection_source: node_modules/cross-fetch/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: ServiceStack
@@ -198,7 +211,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/2773/JuTVEkWX_400x400.jpg
-  detection_source: node_modules/tar-stream/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/chownr/package.json
+  detection_source: node_modules/chownr/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: jQuery
@@ -211,8 +225,8 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
-  detection_source_url: node_modules/cheerio/package.json
-  detection_source: node_modules/cheerio/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cheerio/package.json
+  detection_source: node_modules/cheerio-select/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: GraphQL
@@ -223,6 +237,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Query Languages
   image_url: https://img.stackshare.io/service/3820/12972006.png
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cheerio/package.json
   detection_source: node_modules/cheerio/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -234,7 +249,8 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
-  detection_source: node_modules/pend/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/js-tokens/package.json
+  detection_source: node_modules/js-tokens/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: ent
@@ -246,7 +262,8 @@ tools:
   category: Data Stores
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/21146/default_3b393819f74c4cb10f98fa9e683fa28cf6cc85f5.png
-  detection_source: node_modules/ws/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@babel/helper-validator-identifier/package.json
+  detection_source: node_modules/@babel/helper-validator-identifier/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: ws
@@ -258,7 +275,8 @@ tools:
   category: Application Hosting
   sub_category: Realtime Backend / API
   image_url: https://img.stackshare.io/service/11381/no-img-open-source.png
-  detection_source: node_modules/ws/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/agent-base/package.json
+  detection_source: node_modules/agent-base/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: Airtap
@@ -271,8 +289,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Browser Testing
   image_url: https://img.stackshare.io/no-img-open-source.png
-  detection_source_url: node_modules/buffer/package.json
-  detection_source: node_modules/readable-stream/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/buffer/package.json
+  detection_source: node_modules/buffer/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: Babel
@@ -285,8 +303,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: JavaScript Compilers
   image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
-  detection_source_url: node_modules/cosmiconfig/package.json
-  detection_source: node_modules/string_decoder/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cosmiconfig/package.json
+  detection_source: node_modules/@babel/code-frame/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: Browserify
@@ -299,8 +317,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/849/9esmqty2.png
-  detection_source_url: node_modules/base64-js/package.json
-  detection_source: node_modules/util-deprecate/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/base64-js/package.json
+  detection_source: node_modules/base64-js/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: Chai
@@ -313,8 +331,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/1725/chai.png
-  detection_source_url: node_modules/cross-fetch/package.json
-  detection_source: node_modules/node-fetch/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cross-fetch/package.json
+  detection_source: node_modules/cross-fetch/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: CodeMirror
@@ -327,7 +345,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Text Editor
   image_url: https://img.stackshare.io/service/2490/E_fCaAi6.png
-  detection_source_url: node_modules/js-yaml/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/js-yaml/package.json
   detection_source: node_modules/js-yaml/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -339,7 +357,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Coverage
   image_url: https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png
-  detection_source: node_modules/node-fetch/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cross-fetch/package.json
+  detection_source: node_modules/cross-fetch/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: Coveralls
@@ -351,7 +370,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Coverage
   image_url: https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png
-  detection_source: node_modules/proxy-from-env/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/chalk/package.json
+  detection_source: node_modules/chalk/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: ESLint
@@ -363,7 +383,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
-  detection_source: node_modules/ws/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/agent-base/package.json
+  detection_source: node_modules/agent-base/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: Git
@@ -374,6 +395,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/swadhin1515/node
   detection_source: Repo Metadata
 - name: Hyper
   description: On-Demand Container, Per-Second Billing
@@ -383,7 +405,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Containers as a Service
   image_url: https://img.stackshare.io/service/3125/xSVaubUG_400x400.jpg
-  detection_source: node_modules/readable-stream/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/buffer/package.json
+  detection_source: node_modules/buffer/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: JSPM
@@ -394,6 +417,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2869/SD4SNJm8_400x400.jpg
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/buffer/package.json
   detection_source: node_modules/buffer/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -407,8 +431,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/830/jest.png
-  detection_source_url: node_modules/cheerio-select/package.json
-  detection_source: node_modules/nth-check/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cheerio-select/package.json
+  detection_source: node_modules/cheerio-select/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: Karma
@@ -421,7 +445,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Browser Testing
   image_url: https://img.stackshare.io/service/1420/TidYGd6a.png
-  detection_source_url: node_modules/debug/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/debug/package.json
   detection_source: node_modules/debug/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -436,8 +460,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/832/mocha.png
-  detection_source_url: node_modules/agent-base/package.json
-  detection_source: node_modules/ws/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/agent-base/package.json
+  detection_source: node_modules/agent-base/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: NuGet
@@ -448,7 +472,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
-  detection_source: node_modules/cross-fetch/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/agent-base/package.json
+  detection_source: node_modules/agent-base/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: Octokit
@@ -459,6 +484,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Tools for GitHub
   image_url: https://img.stackshare.io/service/9827/octokit-dotnet_2.png
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cheerio/package.json
   detection_source: node_modules/cheerio/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -472,8 +498,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
-  detection_source_url: node_modules/cheerio-select/package.json
-  detection_source: node_modules/ws/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cheerio-select/package.json
+  detection_source: node_modules/agent-base/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: Puppet Labs
@@ -485,7 +511,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Server Configuration and Automation
   image_url: https://img.stackshare.io/service/421/954f7381089ac290b4690c5ffd9dd7d3.png
-  detection_source: node_modules/ws/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cosmiconfig/package.json
+  detection_source: node_modules/cosmiconfig/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: PyPI
@@ -496,6 +523,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/parse-json/package.json
   detection_source: node_modules/parse-json/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -507,6 +535,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/safe-buffer/package.json
   detection_source: node_modules/safe-buffer/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -519,7 +548,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/851/testling.png
-  detection_source: node_modules/through/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/balanced-match/package.json
+  detection_source: node_modules/balanced-match/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: Travis CI
@@ -531,7 +561,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
-  detection_source: node_modules/through/.travis.yml
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/bl/.travis.yml
+  detection_source: node_modules/bl/.travis.yml
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: Webpack
@@ -544,7 +575,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
-  detection_source_url: node_modules/cross-fetch/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cross-fetch/package.json
   detection_source: node_modules/cross-fetch/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -556,6 +587,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/extract-zip/package.json
   detection_source: node_modules/extract-zip/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -569,7 +601,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Git Tools
   image_url: https://img.stackshare.io/no-img-open-source.png
-  detection_source: node_modules/yauzl/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@babel/code-frame/package.json
+  detection_source: node_modules/@babel/code-frame/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: jsdom
@@ -583,8 +616,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Headless Browsers
   image_url: https://img.stackshare.io/service/7054/preview.jpeg
-  detection_source_url: node_modules/cheerio/package.json
-  detection_source: node_modules/whatwg-url/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cheerio/package.json
+  detection_source: node_modules/cheerio/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: npm
@@ -595,7 +628,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
-  detection_source: node_modules/yauzl/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@babel/code-frame/package.json
+  detection_source: node_modules/@babel/code-frame/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: pre-commit
@@ -606,7 +640,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Git Tools
   image_url: https://img.stackshare.io/no-img-open-source.png
-  detection_source: node_modules/extract-zip/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cosmiconfig/package.json
+  detection_source: node_modules/cosmiconfig/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: rollup
@@ -617,7 +652,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg
-  detection_source: node_modules/puppeteer-core/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cross-fetch/package.json
+  detection_source: node_modules/cross-fetch/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: Buffer
@@ -628,7 +664,8 @@ tools:
   category: Support, Sales, and Marketing
   sub_category: Social Media Tools
   image_url: https://img.stackshare.io/service/825/hnc3q-7x.jpg
-  detection_source: node_modules/safe-buffer/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/bl/package.json
+  detection_source: node_modules/bl/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: Chartio
@@ -639,7 +676,8 @@ tools:
   category: Analytics
   sub_category: Business Intelligence
   image_url: https://img.stackshare.io/service/9/TtrFaQ3j_400x400.png
-  detection_source: node_modules/yauzl/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@babel/code-frame/package.json
+  detection_source: node_modules/@babel/code-frame/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: OpenLayers
@@ -651,7 +689,8 @@ tools:
   category: Application Utilities
   sub_category: Mapping APIs
   image_url: https://img.stackshare.io/service/3208/397ce8027eb036960f00dd5153d41993.png
-  detection_source: node_modules/yauzl/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@babel/code-frame/package.json
+  detection_source: node_modules/@babel/code-frame/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: Q
@@ -663,7 +702,8 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/4697/default_2d5a1d7c5eb520cdeb7db120e767345004a1d0d4.png
-  detection_source: node_modules/yauzl/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@babel/code-frame/package.json
+  detection_source: node_modules/@babel/code-frame/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: React Navigation
@@ -675,7 +715,8 @@ tools:
   category: Mobile
   sub_category: Cross-Platform Mobile Tools
   image_url: https://img.stackshare.io/service/6422/react-navigation.png
-  detection_source: node_modules/webidl-conversions/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@babel/highlight/package.json
+  detection_source: node_modules/@babel/highlight/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: Requests
@@ -687,6 +728,7 @@ tools:
   category: Application Utilities
   sub_category: Data Transfer
   image_url: https://img.stackshare.io/service/10242/default_10e3fd58c910dc0c4241bc273a7235a0aa4197dd.png
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/inflight/package.json
   detection_source: node_modules/inflight/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -696,7 +738,8 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2634/quvIzEn2_normal.jpg
-  detection_source: node_modules/puppeteer/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/puppeteer-core/package.json
+  detection_source: node_modules/puppeteer-core/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: chalk
@@ -705,7 +748,8 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/8072/13122722.png
-  detection_source: node_modules/supports-color/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@babel/code-frame/package.json
+  detection_source: node_modules/@babel/code-frame/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: husky
@@ -713,7 +757,8 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/9527/5502029.jpeg
-  detection_source: node_modules/ms/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cheerio/package.json
+  detection_source: node_modules/cheerio/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: js
@@ -721,7 +766,8 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/5588/jscom.png
-  detection_source: node_modules/yauzl/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@babel/code-frame/package.json
+  detection_source: node_modules/@babel/code-frame/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: jsdoc
@@ -732,7 +778,8 @@ tools:
   category: Application Utilities
   sub_category: Documentation as a Service & Tools
   image_url: https://img.stackshare.io/service/4047/js-doc.png
-  detection_source: node_modules/domutils/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cheerio/package.json
+  detection_source: node_modules/cheerio/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: k6
@@ -744,7 +791,8 @@ tools:
   category: Application Utilities
   sub_category: Load and Performance Testing
   image_url: https://img.stackshare.io/service/7146/k6.jpeg
-  detection_source: node_modules/whatwg-url/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/js-tokens/package.json
+  detection_source: node_modules/js-tokens/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: lint-staged
@@ -752,7 +800,8 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/10577/11071.jpeg
-  detection_source: node_modules/ms/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cheerio/package.json
+  detection_source: node_modules/cheerio/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: semantic-release
@@ -761,6 +810,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/10156/12867925.png
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/lines-and-columns/package.json
   detection_source: node_modules/lines-and-columns/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -769,7 +819,8 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/5477/no-img-open-source.png
-  detection_source: node_modules/yauzl/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/agent-base/package.json
+  detection_source: node_modules/agent-base/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: v8
@@ -777,7 +828,8 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/4093/113781.png
-  detection_source: node_modules/node-win-x64/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@types/yauzl/package.json
+  detection_source: node_modules/@types/yauzl/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: zx
@@ -788,7 +840,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Bash Scripts
   image_url: https://img.stackshare.io/service/25684/default_09d743c2ce3cd5b32e4cae363d05941d9d137dd9.png
-  detection_source: node_modules/node-fetch/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/base64-js/package.json
+  detection_source: node_modules/base64-js/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: "@babel/cli"
@@ -801,8 +854,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15848/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
-  detection_source_url: node_modules/cosmiconfig/package.json
-  detection_source: node_modules/readable-stream/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cosmiconfig/package.json
+  detection_source: node_modules/cosmiconfig/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: "@babel/code-frame"
@@ -815,8 +868,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18114/image.png
-  detection_source_url: package-lock.json
-  detection_source: node_modules/parse-json/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/package-lock.json
+  detection_source: node_modules/@babel/code-frame/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: "@babel/core"
@@ -829,8 +882,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
-  detection_source_url: node_modules/cosmiconfig/package.json
-  detection_source: node_modules/readable-stream/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cosmiconfig/package.json
+  detection_source: node_modules/cosmiconfig/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: "@babel/polyfill"
@@ -843,7 +896,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16039/default_b8a893285867e41b5fc4a7631d8fc2da834d778c.png
-  detection_source_url: node_modules/readable-stream/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/readable-stream/package.json
   detection_source: node_modules/readable-stream/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -857,8 +910,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15819/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
-  detection_source_url: node_modules/cosmiconfig/package.json
-  detection_source: node_modules/readable-stream/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cosmiconfig/package.json
+  detection_source: node_modules/cosmiconfig/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: "@babel/preset-typescript"
@@ -871,7 +924,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16084/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
-  detection_source_url: node_modules/cosmiconfig/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cosmiconfig/package.json
   detection_source: node_modules/cosmiconfig/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -885,7 +938,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16059/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
-  detection_source_url: node_modules/cross-fetch/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cross-fetch/package.json
   detection_source: node_modules/cross-fetch/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -899,7 +952,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16092/default_8725384794b44fe56f31da1d21ae759cf07be7a5.png
-  detection_source_url: node_modules/cross-fetch/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cross-fetch/package.json
   detection_source: node_modules/cross-fetch/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -912,7 +965,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16999/default_43f23668e39c9b3381720c9c76540776b8a49167.png
-  detection_source: node_modules/yauzl/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@babel/code-frame/package.json
+  detection_source: node_modules/@babel/code-frame/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: "@rollup/plugin-node-resolve"
@@ -925,7 +979,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17836/default_abcc2eea82e62d338a749f334647866df76198b8.png
-  detection_source_url: node_modules/js-yaml/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/js-yaml/package.json
   detection_source: node_modules/js-yaml/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -939,7 +993,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15922/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
-  detection_source_url: node_modules/cross-fetch/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cross-fetch/package.json
   detection_source: node_modules/cross-fetch/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -953,8 +1007,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16547/default_2d1a470f86144a45b7e94185b9a5aecb5ebb69f4.png
-  detection_source_url: node_modules/@babel/code-frame/package.json
-  detection_source: node_modules/@babel/highlight/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@babel/code-frame/package.json
+  detection_source: node_modules/@babel/code-frame/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: "@types/debug"
@@ -966,7 +1020,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16332/default_e8196e273db814cf9be505b35dec386fafb0dbaa.png
-  detection_source: node_modules/https-proxy-agent/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/agent-base/package.json
+  detection_source: node_modules/agent-base/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: "@types/jest"
@@ -979,8 +1034,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
-  detection_source_url: node_modules/cheerio-select/package.json
-  detection_source: node_modules/nth-check/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cheerio-select/package.json
+  detection_source: node_modules/cheerio-select/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: "@types/js-yaml"
@@ -993,7 +1048,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16757/default_c6eddffbed005d007ab4638fbcac90e4b79576b2.png
-  detection_source_url: node_modules/cosmiconfig/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cosmiconfig/package.json
   detection_source: node_modules/cosmiconfig/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -1007,8 +1062,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15893/default_1d65e37e65b7f80761374f0202776043277d505d.png
-  detection_source_url: node_modules/agent-base/package.json
-  detection_source: node_modules/cross-fetch/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/agent-base/package.json
+  detection_source: node_modules/agent-base/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: "@types/node"
@@ -1021,8 +1076,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
-  detection_source_url: package-lock.json
-  detection_source: node_modules/nth-check/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/package-lock.json
+  detection_source: node_modules/@types/node/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: "@types/semver"
@@ -1035,7 +1090,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16694/default_4b738bf1758d38dddd276589bbea47fca5a990df.png
-  detection_source_url: node_modules/agent-base/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/agent-base/package.json
   detection_source: node_modules/agent-base/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -1049,7 +1104,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16711/default_9cd376f2200c8f6c32ebd690bb6c290852dee64d.png
-  detection_source_url: node_modules/agent-base/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/agent-base/package.json
   detection_source: node_modules/agent-base/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -1063,8 +1118,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: node_modules/agent-base/package.json
-  detection_source: node_modules/nth-check/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/agent-base/package.json
+  detection_source: node_modules/agent-base/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: "@typescript-eslint/parser"
@@ -1077,8 +1132,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
-  detection_source_url: node_modules/agent-base/package.json
-  detection_source: node_modules/nth-check/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/agent-base/package.json
+  detection_source: node_modules/agent-base/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: after
@@ -1090,6 +1145,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17934/default_c741d08ac1035482640dcd4a57c59231d0ce4858.png
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/glob/package.json
   detection_source: node_modules/glob/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -1103,8 +1159,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18744/default_a0c218dcb961fccae1cb03e431692daad86f7866.png
-  detection_source_url: node_modules/js-yaml/package.json
-  detection_source: node_modules/supports-color/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/js-yaml/package.json
+  detection_source: node_modules/@babel/code-frame/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: ansi-styles
@@ -1117,8 +1173,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17247/default_548b30201f78497e75a25eec5123ef18df71e69d.png
-  detection_source_url: package-lock.json
-  detection_source: node_modules/color-convert/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/package-lock.json
+  detection_source: node_modules/ansi-styles/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: arg
@@ -1130,7 +1186,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17564/default_99afdc7126f8a31ae778ef58d50c93ae3dd88880.png
-  detection_source: node_modules/parse5/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/argparse/package.json
+  detection_source: node_modules/argparse/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: argparse
@@ -1143,8 +1200,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17073/default_23002b02644a8cb313a0f53f43df271731022a9e.png
-  detection_source_url: package-lock.json
-  detection_source: node_modules/js-yaml/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/package-lock.json
+  detection_source: node_modules/argparse/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: args
@@ -1156,7 +1213,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18244/default_b102609c7a7fb86f3c2ca3ec026f3011d275978b.png
-  detection_source: node_modules/has-flag/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/argparse/package.json
+  detection_source: node_modules/argparse/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: argv
@@ -1168,6 +1226,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17591/default_3a2c894d178d46e5b78f3e41ac6b2ced48b414c8.png
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/has-flag/package.json
   detection_source: node_modules/has-flag/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -1181,8 +1240,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16188/default_9a7a7dcd69c12c746dc4000dc4d1b75758079c9f.png
-  detection_source_url: node_modules/readable-stream/package.json
-  detection_source: node_modules/readable-stream/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/readable-stream/package.json
+  detection_source: node_modules/cross-fetch/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: async
@@ -1194,7 +1253,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15851/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
-  detection_source: node_modules/pend/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/agent-base/package.json
+  detection_source: node_modules/agent-base/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: ava
@@ -1207,8 +1267,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15883/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
-  detection_source_url: node_modules/callsites/package.json
-  detection_source: node_modules/webidl-conversions/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/callsites/package.json
+  detection_source: node_modules/@babel/highlight/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: babel-code-frame
@@ -1220,6 +1280,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18049/image.png
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@babel/code-frame/package.json
   detection_source: node_modules/@babel/code-frame/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -1233,7 +1294,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15798/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: node_modules/node-fetch/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/node-fetch/package.json
   detection_source: node_modules/node-fetch/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -1247,7 +1308,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17113/default_aae1698f13b22e457dce8faa3612b71379cf7a48.png
-  detection_source_url: node_modules/base64-js/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/base64-js/package.json
   detection_source: node_modules/base64-js/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -1261,7 +1322,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16032/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
-  detection_source_url: node_modules/node-fetch/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/node-fetch/package.json
   detection_source: node_modules/node-fetch/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -1275,8 +1336,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15867/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: node_modules/ansi-styles/package.json
-  detection_source: node_modules/string_decoder/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/ansi-styles/package.json
+  detection_source: node_modules/ansi-styles/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: babel-preset-env
@@ -1289,7 +1350,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15814/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: node_modules/node-fetch/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/node-fetch/package.json
   detection_source: node_modules/node-fetch/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -1303,7 +1364,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15865/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
-  detection_source_url: node_modules/node-fetch/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/node-fetch/package.json
   detection_source: node_modules/node-fetch/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -1317,8 +1378,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18395/default_dc6769b9772560ba4cb2cd0455560c2922e23c92.png
-  detection_source_url: package-lock.json
-  detection_source: node_modules/brace-expansion/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/package-lock.json
+  detection_source: node_modules/balanced-match/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: base64-js
@@ -1331,8 +1392,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17396/default_2cd7ed1c123f2fca074a6f4b16c4e73d5bfe82be.png
-  detection_source_url: package-lock.json
-  detection_source: node_modules/buffer/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/package-lock.json
+  detection_source: node_modules/base64-js/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: beefy
@@ -1346,7 +1407,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17705/default_148ef251371a47f69a7acad9f3b25e2ec2ee4aa4.png
-  detection_source_url: node_modules/unbzip2-stream/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/unbzip2-stream/package.json
   detection_source: node_modules/unbzip2-stream/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -1361,8 +1422,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16241/default_cbc604730ab04341982d806fe402cd0706cc8bf4.png
-  detection_source_url: node_modules/base64-js/package.json
-  detection_source: node_modules/ws/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/base64-js/package.json
+  detection_source: node_modules/base64-js/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: big.js
@@ -1374,6 +1435,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17724/default_b527ab15473225ca7c2e9b197c9726e92ac97de8.png
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/buffer/package.json
   detection_source: node_modules/buffer/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -1386,6 +1448,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16771/default_6e51a44775c61dcb2888547ad406a2f0cf2c344e.png
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/supports-color/package.json
   detection_source: node_modules/supports-color/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -1398,6 +1461,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16564/default_aaf5839b9bd35cf60ebf8e1b59d64d8e3b398aaa.png
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/tar-fs/package.json
   detection_source: node_modules/tar-fs/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -1412,8 +1476,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17221/default_183829c5079b84333a720d8590a328efc043ba0e.png
-  detection_source_url: package-lock.json
-  detection_source: node_modules/yauzl/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/package-lock.json
+  detection_source: node_modules/@babel/code-frame/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: body-parser
@@ -1426,7 +1490,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15906/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: node_modules/cross-fetch/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cross-fetch/package.json
   detection_source: node_modules/cross-fetch/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -1439,7 +1503,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17373/default_c1932d441699b98abea6098c6f8f65e2acb4f5ed.png
-  detection_source: node_modules/minimatch/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/balanced-match/package.json
+  detection_source: node_modules/balanced-match/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: brace-expansion
@@ -1452,8 +1517,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18603/default_3694958065f9a898b45cef06d5c531dfb4be172f.png
-  detection_source_url: package-lock.json
-  detection_source: node_modules/minimatch/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/package-lock.json
+  detection_source: node_modules/balanced-match/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: brfs
@@ -1466,8 +1531,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16397/default_f1e46d83300118af569c79b07f85830bc788c2d1.png
-  detection_source_url: node_modules/debug/package.json
-  detection_source: node_modules/unbzip2-stream/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/debug/package.json
+  detection_source: node_modules/debug/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: bufferutil
@@ -1480,7 +1545,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17739/default_2f87d5add351cc79d3471e48bc0dd6f92c1288ad.png
-  detection_source_url: node_modules/ws/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/ws/package.json
   detection_source: node_modules/ws/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -1493,7 +1558,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18731/default_896e971e78d35d9228342aa32100298402d2473b.png
-  detection_source: node_modules/puppeteer/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/import-fresh/package.json
+  detection_source: node_modules/import-fresh/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: callsite
@@ -1505,7 +1571,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18166/default_30671db30f2fed76dfd58b5a2e0d6a33e57f3e64.png
-  detection_source: node_modules/parent-module/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/callsites/package.json
+  detection_source: node_modules/callsites/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: chai-as-promised
@@ -1518,7 +1585,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15970/default_cbd6c289400672b291755183817e9dd6abe1a612.png
-  detection_source_url: node_modules/node-fetch/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/node-fetch/package.json
   detection_source: node_modules/node-fetch/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -1532,8 +1599,22 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17625/default_b06ec1ccf403dac1459596b8571a4fb6a46577e1.png
-  detection_source_url: node_modules/node-fetch/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/node-fetch/package.json
   detection_source: node_modules/node-fetch/package.json
+  last_updated_by: swadhin1515
+  last_updated_on: 2023-01-07 16:05:52.000000000 Z
+- name: chalk
+  description: Terminal string styling done right
+  package_url: https://www.npmjs.com/chalk
+  version: 2.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15813/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/package-lock.json
+  detection_source: node_modules/@babel/code-frame/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: cheerio
@@ -1546,8 +1627,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15949/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
-  detection_source_url: package-lock.json
-  detection_source: package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/package-lock.json
+  detection_source: node_modules/boolbase/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: cli
@@ -1559,7 +1640,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17384/default_b39374c3a74b433364bfdbff07be26214bf186fd.png
-  detection_source: node_modules/ws/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/agent-base/package.json
+  detection_source: node_modules/agent-base/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: co
@@ -1571,7 +1653,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16007/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
-  detection_source: node_modules/yauzl/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@babel/code-frame/package.json
+  detection_source: node_modules/@babel/code-frame/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: code
@@ -1583,7 +1666,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16417/default_89ba91277e3434b03295bb11d22736632df1d04f.png
-  detection_source: node_modules/tr46/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@babel/code-frame/package.json
+  detection_source: node_modules/@babel/code-frame/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: coffee-script
@@ -1596,8 +1680,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15920/default_1d65e37e65b7f80761374f0202776043277d505d.png
-  detection_source_url: node_modules/error-ex/package.json
-  detection_source: node_modules/is-arrayish/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/error-ex/package.json
+  detection_source: node_modules/error-ex/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: color
@@ -1609,7 +1693,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16600/default_9d292a50abc76f1f74581b311ad930a616b1785c.png
-  detection_source: node_modules/supports-color/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/ansi-styles/package.json
+  detection_source: node_modules/ansi-styles/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: color-convert
@@ -1622,8 +1707,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18119/image.png
-  detection_source_url: package-lock.json
-  detection_source: node_modules/color-name/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/package-lock.json
+  detection_source: node_modules/ansi-styles/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: colors
@@ -1635,7 +1720,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15908/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source: node_modules/supports-color/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/ansi-styles/package.json
+  detection_source: node_modules/ansi-styles/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: commitizen
@@ -1647,6 +1733,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16008/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cross-fetch/package.json
   detection_source: node_modules/cross-fetch/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -1659,6 +1746,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17408/default_bdd3cbd2ffd904a2fe09048437badf6984450361.png
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cross-fetch/package.json
   detection_source: node_modules/cross-fetch/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -1673,8 +1761,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16269/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
-  detection_source_url: node_modules/buffer/package.json
-  detection_source: node_modules/unbzip2-stream/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/buffer/package.json
+  detection_source: node_modules/buffer/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: conf
@@ -1686,7 +1774,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17998/default_fc5f66cf44024e173fd07c415d4f30ca58b4cbad.png
-  detection_source: node_modules/ws/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/agent-base/package.json
+  detection_source: node_modules/agent-base/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: config
@@ -1698,7 +1787,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16353/default_b5c8f3c8e46d368f74a982d06d7f13291fe651ea.png
-  detection_source: node_modules/ws/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/agent-base/package.json
+  detection_source: node_modules/agent-base/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: connect
@@ -1710,6 +1800,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16202/default_2c2f2c7b016f84c0fad2576cb986cb14a5dbbc2f.png
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/readable-stream/package.json
   detection_source: node_modules/readable-stream/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -1722,6 +1813,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16618/default_9012166d3e51cea5db6b4e69c80ace1c50b7509d.png
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cross-fetch/package.json
   detection_source: node_modules/cross-fetch/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -1734,7 +1826,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17538/default_1922051267fa78212ab6eb1238cdf6aab8771493.png
-  detection_source: node_modules/readable-stream/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/buffer/package.json
+  detection_source: node_modules/buffer/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: core-util-is
@@ -1747,7 +1840,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18306/default_adee5b58cc2acb885faff4066ee6d7281131005f.png
-  detection_source_url: node_modules/string_decoder/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/string_decoder/package.json
   detection_source: node_modules/string_decoder/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -1761,8 +1854,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17133/default_aae1698f13b22e457dce8faa3612b71379cf7a48.png
-  detection_source_url: package-lock.json
-  detection_source: node_modules/puppeteer/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/package-lock.json
+  detection_source: node_modules/cosmiconfig/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: cpy
@@ -1774,6 +1867,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17731/default_b527ab15473225ca7c2e9b197c9726e92ac97de8.png
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/agent-base/package.json
   detection_source: node_modules/agent-base/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -1787,7 +1881,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16964/default_824835a71140f223a333a5e10225c10368f12857.png
-  detection_source_url: node_modules/agent-base/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/agent-base/package.json
   detection_source: node_modules/agent-base/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -1800,7 +1894,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17810/default_2a0f136cfb588dd9053268b73a18a953e8d65590.png
-  detection_source: node_modules/yauzl/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/buffer-crc32/package.json
+  detection_source: node_modules/buffer-crc32/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: cross-env
@@ -1813,8 +1908,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15828/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: node_modules/cosmiconfig/package.json
-  detection_source: node_modules/node-fetch/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cosmiconfig/package.json
+  detection_source: node_modules/cosmiconfig/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: cross-fetch
@@ -1827,8 +1922,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17537/default_1922051267fa78212ab6eb1238cdf6aab8771493.png
-  detection_source_url: package-lock.json
-  detection_source: node_modules/puppeteer-core/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/package-lock.json
+  detection_source: node_modules/cross-fetch/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: css
@@ -1840,7 +1935,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17017/default_824835a71140f223a333a5e10225c10368f12857.png
-  detection_source: node_modules/nth-check/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/boolbase/package.json
+  detection_source: node_modules/boolbase/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: cz-conventional-changelog
@@ -1853,7 +1949,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15961/default_cbd6c289400672b291755183817e9dd6abe1a612.png
-  detection_source_url: node_modules/cross-fetch/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cross-fetch/package.json
   detection_source: node_modules/cross-fetch/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -1866,7 +1962,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16224/default_fef27d1523ac1844fc00e83e47bddd8898ff8a89.png
-  detection_source: node_modules/ws/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@babel/code-frame/package.json
+  detection_source: node_modules/@babel/code-frame/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: debug
@@ -1879,8 +1976,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15852/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
-  detection_source_url: package-lock.json
-  detection_source: node_modules/puppeteer-core/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/package-lock.json
+  detection_source: node_modules/agent-base/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: decompress
@@ -1892,6 +1989,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17729/default_abcc2eea82e62d338a749f334647866df76198b8.png
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/unbzip2-stream/package.json
   detection_source: node_modules/unbzip2-stream/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -1905,8 +2003,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15907/default_a582b9fecca65f37fe68520c8f84d3bcae35db24.png
-  detection_source_url: node_modules/cosmiconfig/package.json
-  detection_source: node_modules/rimraf/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cosmiconfig/package.json
+  detection_source: node_modules/cosmiconfig/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: del-cli
@@ -1919,7 +2017,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16349/default_22cf6cee54c697b5a223902962cc57a55ee80be9.png
-  detection_source_url: node_modules/cosmiconfig/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cosmiconfig/package.json
   detection_source: node_modules/cosmiconfig/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -1933,7 +2031,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17465/default_10a98ebc0146ab94b0fde6f7013c1279c82e4135.png
-  detection_source: node_modules/fd-slicer/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cosmiconfig/package.json
+  detection_source: node_modules/cosmiconfig/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: download
@@ -1945,6 +2044,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16861/default_89212c2fcd02701c275bb6c77ae7dd538cd4b9f2.png
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/unbzip2-stream/package.json
   detection_source: node_modules/unbzip2-stream/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -1957,7 +2057,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16045/default_a9b6ac3c2fe43713f9a8e43d4668d0352ad0d247.png
-  detection_source: node_modules/string_decoder/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/readable-stream/package.json
+  detection_source: node_modules/readable-stream/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: end-of-stream
@@ -1971,8 +2072,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17795/default_a3a8e3ccb38174acb180f0920c5d4e2fea848911.png
-  detection_source_url: package-lock.json
-  detection_source: node_modules/tar-stream/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/package-lock.json
+  detection_source: node_modules/end-of-stream/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: entities
@@ -1985,8 +2086,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18082/image.png
-  detection_source_url: package-lock.json
-  detection_source: node_modules/parse5/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/package-lock.json
+  detection_source: node_modules/dom-serializer/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: escape-string-regexp
@@ -1999,8 +2100,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16736/default_cc1793e454d6d035c188f0198b037d58f372e7f2.png
-  detection_source_url: package-lock.json
-  detection_source: node_modules/escape-string-regexp/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/package-lock.json
+  detection_source: node_modules/chalk/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: eslint-config-airbnb
@@ -2013,8 +2114,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15857/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: node_modules/agent-base/package.json
-  detection_source: node_modules/https-proxy-agent/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/agent-base/package.json
+  detection_source: node_modules/agent-base/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: eslint-config-prettier
@@ -2027,8 +2128,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
-  detection_source_url: node_modules/agent-base/package.json
-  detection_source: node_modules/ws/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/agent-base/package.json
+  detection_source: node_modules/agent-base/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: eslint-config-standard
@@ -2041,7 +2142,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15872/default_e4668902f8489350db9b0fb228523a571ef05b26.png
-  detection_source_url: node_modules/extract-zip/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/extract-zip/package.json
   detection_source: node_modules/extract-zip/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -2055,8 +2156,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18380/default_d0ba753d47207ad8f04b02befcab81c50f38718f.png
-  detection_source_url: node_modules/agent-base/package.json
-  detection_source: node_modules/https-proxy-agent/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/agent-base/package.json
+  detection_source: node_modules/agent-base/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: eslint-plugin-ava
@@ -2069,7 +2170,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17053/default_88e2e076a71afdc1de87ad42c80c1606f2689af1.png
-  detection_source_url: node_modules/extract-zip/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/extract-zip/package.json
   detection_source: node_modules/extract-zip/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -2083,8 +2184,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
-  detection_source_url: node_modules/agent-base/package.json
-  detection_source: node_modules/https-proxy-agent/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/agent-base/package.json
+  detection_source: node_modules/agent-base/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: eslint-plugin-jest
@@ -2097,8 +2198,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15996/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
-  detection_source_url: node_modules/cheerio/package.json
-  detection_source: node_modules/cosmiconfig/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cheerio/package.json
+  detection_source: node_modules/cheerio/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: eslint-plugin-jsdoc
@@ -2111,8 +2212,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16672/default_783b9b6c17b863f264c1418b0eb831316f741afd.png
-  detection_source_url: node_modules/cheerio/package.json
-  detection_source: node_modules/domutils/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cheerio/package.json
+  detection_source: node_modules/cheerio/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: eslint-plugin-jsx-a11y
@@ -2125,8 +2226,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15845/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: node_modules/agent-base/package.json
-  detection_source: node_modules/https-proxy-agent/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/agent-base/package.json
+  detection_source: node_modules/agent-base/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: eslint-plugin-node
@@ -2139,8 +2240,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15874/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: node_modules/cheerio/package.json
-  detection_source: node_modules/extract-zip/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cheerio/package.json
+  detection_source: node_modules/cheerio/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: eslint-plugin-prettier
@@ -2153,8 +2254,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
-  detection_source_url: node_modules/lines-and-columns/package.json
-  detection_source: node_modules/ws/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/lines-and-columns/package.json
+  detection_source: node_modules/lines-and-columns/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: eslint-plugin-promise
@@ -2167,7 +2268,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15885/default_1d65e37e65b7f80761374f0202776043277d505d.png
-  detection_source_url: node_modules/extract-zip/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/extract-zip/package.json
   detection_source: node_modules/extract-zip/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -2181,8 +2282,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: node_modules/agent-base/package.json
-  detection_source: node_modules/https-proxy-agent/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/agent-base/package.json
+  detection_source: node_modules/agent-base/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: eslint-plugin-standard
@@ -2195,7 +2296,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15884/default_1d65e37e65b7f80761374f0202776043277d505d.png
-  detection_source_url: node_modules/extract-zip/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/extract-zip/package.json
   detection_source: node_modules/extract-zip/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -2208,7 +2309,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16371/default_17385ab3aa01d4c295c08d4a9736140df691c5e9.png
-  detection_source: node_modules/readable-stream/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cheerio-select/package.json
+  detection_source: node_modules/cheerio-select/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: esprima
@@ -2221,7 +2323,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16362/default_23e0dabcd0197f0c1f0a41268f8ca3f7e8b1f1e2.png
-  detection_source_url: node_modules/js-tokens/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/js-tokens/package.json
   detection_source: node_modules/js-tokens/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -2234,6 +2336,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16435/default_aa91da3cee4d961f0eea8ca5de77f399ec7ec794.png
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/readable-stream/package.json
   detection_source: node_modules/readable-stream/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -2247,8 +2350,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16132/default_3d197518f6bb529bfcc1b685e2cefbdfe83ff108.png
-  detection_source_url: node_modules/chalk/package.json
-  detection_source: node_modules/parent-module/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/chalk/package.json
+  detection_source: node_modules/chalk/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: expect
@@ -2260,7 +2363,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16110/default_efe4f0184d007a28e793d89a59e058b742bc9177.png
-  detection_source: node_modules/ms/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cross-fetch/package.json
+  detection_source: node_modules/cross-fetch/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: expect.js
@@ -2273,7 +2377,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16029/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
-  detection_source_url: node_modules/ms/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/ms/package.json
   detection_source: node_modules/ms/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -2286,7 +2390,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17801/default_78858facb60c08d15198eb69a6c7f48463f2c09f.png
-  detection_source: node_modules/ws/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@babel/helper-validator-identifier/package.json
+  detection_source: node_modules/@babel/helper-validator-identifier/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: express
@@ -2299,8 +2404,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: node_modules/cross-fetch/package.json
-  detection_source: node_modules/escape-string-regexp/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cross-fetch/package.json
+  detection_source: node_modules/cross-fetch/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
   vulnerabilities:
@@ -2319,7 +2424,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16161/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
-  detection_source: node_modules/ms/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cross-fetch/package.json
+  detection_source: node_modules/cross-fetch/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: extract-zip
@@ -2332,8 +2438,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17488/default_2ae5beb193365eca46e337162957275ebc9c6b3b.png
-  detection_source_url: package-lock.json
-  detection_source: node_modules/yauzl/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/package-lock.json
+  detection_source: node_modules/@types/yauzl/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: faucet
@@ -2346,7 +2452,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16457/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
-  detection_source_url: node_modules/bl/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/bl/package.json
   detection_source: node_modules/bl/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -2359,6 +2465,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17844/default_99a4718ac3f2beccb28962b727b0a38010c9b496.png
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/chalk/package.json
   detection_source: node_modules/chalk/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -2372,7 +2479,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15957/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
-  detection_source_url: node_modules/chalk/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/chalk/package.json
   detection_source: node_modules/chalk/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -2386,7 +2493,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16415/default_aa91da3cee4d961f0eea8ca5de77f399ec7ec794.png
-  detection_source_url: node_modules/node-fetch/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/node-fetch/package.json
   detection_source: node_modules/node-fetch/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -2399,7 +2506,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18037/default_d8756eea8d13a271fb42437ffb36c0a116d72925.png
-  detection_source: node_modules/supports-color/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/chalk/package.json
+  detection_source: node_modules/chalk/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: fs
@@ -2412,7 +2520,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16098/default_63a34654baee757196ddff2457bd1c9a0dfb7287.png
-  detection_source: node_modules/unbzip2-stream/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/ansi-styles/package.json
+  detection_source: node_modules/ansi-styles/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: fs-extra
@@ -2426,7 +2535,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15836/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
-  detection_source_url: node_modules/extract-zip/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/extract-zip/package.json
   detection_source: node_modules/extract-zip/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -2440,8 +2549,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18041/image.png
-  detection_source_url: package-lock.json
-  detection_source: node_modules/pump/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/package-lock.json
+  detection_source: node_modules/extract-zip/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: gh-pages
@@ -2454,7 +2563,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15967/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
-  detection_source_url: node_modules/js-yaml/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/js-yaml/package.json
   detection_source: node_modules/js-yaml/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -2468,8 +2577,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: package-lock.json
-  detection_source: node_modules/rimraf/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/package-lock.json
+  detection_source: node_modules/buffer/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: global
@@ -2481,7 +2590,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16772/default_661bbd7f9556b6c5c0b8be11cd13e1813fc5c977.png
-  detection_source: node_modules/cross-fetch/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/buffer/package.json
+  detection_source: node_modules/buffer/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: gm
@@ -2493,7 +2603,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16804/default_55e3ea76a7929df1b71c5ea0c9b4130cc87323a4.png
-  detection_source: node_modules/yauzl/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/ansi-styles/package.json
+  detection_source: node_modules/ansi-styles/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: got
@@ -2505,6 +2616,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16258/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/js-yaml/package.json
   detection_source: node_modules/js-yaml/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -2517,7 +2629,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18039/image.png
-  detection_source: node_modules/yauzl/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@babel/code-frame/package.json
+  detection_source: node_modules/@babel/code-frame/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: hat
@@ -2529,7 +2642,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18457/default_1ee30bb84bfc1558e9a2c7e21dfb728addee0444.png
-  detection_source: node_modules/whatwg-url/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@babel/code-frame/package.json
+  detection_source: node_modules/@babel/code-frame/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: he
@@ -2541,7 +2655,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17059/default_31b594d049ba66ce98c924544ccc4329a3f2d530.png
-  detection_source: node_modules/yauzl/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@babel/code-frame/package.json
+  detection_source: node_modules/@babel/code-frame/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: htmlparser
@@ -2553,7 +2668,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18630/default_9435962787d899b43c107b26a450d4a5a0784dc8.png
-  detection_source: node_modules/parse5/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cheerio-select/package.json
+  detection_source: node_modules/cheerio-select/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: htmlparser2
@@ -2566,8 +2682,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16705/default_6dc099b12d47e378ae121fb53c336fe5d8f0ffc8.png
-  detection_source_url: package-lock.json
-  detection_source: node_modules/parse5/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/package-lock.json
+  detection_source: node_modules/cheerio-select/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: http
@@ -2578,7 +2694,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16874/default_768abdabb94806c932ace6262b6bbc8241907245.png
-  detection_source: node_modules/yauzl/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@babel/code-frame/package.json
+  detection_source: node_modules/@babel/code-frame/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: https
@@ -2590,7 +2707,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17546/default_8d32936cb624bf7f51657c1540463db0a3c4106e.png
-  detection_source: node_modules/yauzl/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@babel/code-frame/package.json
+  detection_source: node_modules/@babel/code-frame/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: https-proxy-agent
@@ -2603,8 +2721,22 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17334/default_6afdd1bc7e3815a18b56c31d0b4acf372c00f6e2.png
-  detection_source_url: package-lock.json
-  detection_source: node_modules/puppeteer/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/package-lock.json
+  detection_source: node_modules/agent-base/package.json
+  last_updated_by: swadhin1515
+  last_updated_on: 2023-01-07 16:05:52.000000000 Z
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  version: 8.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cheerio/package.json
+  detection_source: node_modules/cheerio/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: hyperquest
@@ -2617,8 +2749,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17377/default_c1932d441699b98abea6098c6f8f65e2acb4f5ed.png
-  detection_source_url: node_modules/buffer/package.json
-  detection_source: node_modules/readable-stream/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/buffer/package.json
+  detection_source: node_modules/buffer/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: i
@@ -2630,7 +2762,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17326/default_66bbb2a75a0234b1bfceaa99b8e82825fa7b8284.png
-  detection_source: node_modules/yauzl/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@babel/code-frame/package.json
+  detection_source: node_modules/@babel/code-frame/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: ignore
@@ -2642,7 +2775,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17744/default_b527ab15473225ca7c2e9b197c9726e92ac97de8.png
-  detection_source: node_modules/ws/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/buffer/package.json
+  detection_source: node_modules/buffer/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: inherits
@@ -2656,8 +2790,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16376/default_17385ab3aa01d4c295c08d4a9736140df691c5e9.png
-  detection_source_url: package-lock.json
-  detection_source: node_modules/tar-stream/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/package-lock.json
+  detection_source: node_modules/bl/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: ini
@@ -2669,7 +2803,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16594/default_ebd83b4f0415be108d977ea72558b13fd7c5283d.png
-  detection_source: node_modules/through/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@types/node/package.json
+  detection_source: node_modules/@types/node/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: ink
@@ -2681,7 +2816,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17838/default_abcc2eea82e62d338a749f334647866df76198b8.png
-  detection_source: node_modules/unbzip2-stream/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/fd-slicer/package.json
+  detection_source: node_modules/fd-slicer/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: intern
@@ -2693,7 +2829,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18437/default_7c0bc528b9c47f5cc09b0c87021a81c8d72b33f3.png
-  detection_source: node_modules/readable-stream/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/puppeteer-core/package.json
+  detection_source: node_modules/puppeteer-core/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: ip
@@ -2705,7 +2842,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16483/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
-  detection_source: node_modules/yauzl/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@babel/code-frame/package.json
+  detection_source: node_modules/@babel/code-frame/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: is
@@ -2717,7 +2855,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17544/default_e665c133253b5cd434c1991167ebd25dc68f1c17.png
-  detection_source: node_modules/yauzl/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@babel/code-frame/package.json
+  detection_source: node_modules/@babel/code-frame/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: is-buffer
@@ -2730,7 +2869,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17933/default_ddcb3fb8ca8ccaba871e88d87465cd31ce73df71.png
-  detection_source_url: node_modules/buffer/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/buffer/package.json
   detection_source: node_modules/buffer/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -2743,6 +2882,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18090/image.png
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/lines-and-columns/package.json
   detection_source: node_modules/lines-and-columns/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -2758,8 +2898,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15833/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
-  detection_source_url: node_modules/debug/package.json
-  detection_source: node_modules/yauzl/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/debug/package.json
+  detection_source: node_modules/debug/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: js-yaml
@@ -2772,8 +2912,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15997/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
-  detection_source_url: package-lock.json
-  detection_source: node_modules/js-yaml/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/package-lock.json
+  detection_source: node_modules/argparse/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: json
@@ -2785,7 +2925,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17859/default_dc034f75f103514d23b4d1a7fe578415d63216ee.png
-  detection_source: node_modules/ws/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@babel/code-frame/package.json
+  detection_source: node_modules/@babel/code-frame/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: karma-browserify
@@ -2799,7 +2940,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16294/default_8b65a873fd3277d73483d6846fa38192391abf23.png
-  detection_source_url: node_modules/debug/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/debug/package.json
   detection_source: node_modules/debug/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -2813,7 +2954,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15860/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: node_modules/debug/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/debug/package.json
   detection_source: node_modules/debug/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -2827,7 +2968,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15962/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
-  detection_source_url: node_modules/debug/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/debug/package.json
   detection_source: node_modules/debug/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -2840,6 +2981,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18536/default_e75c3c83e4af96462c99ddf6aabdef371444ed62.png
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@types/node/package.json
   detection_source: node_modules/@types/node/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -2852,7 +2994,22 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16948/default_3740a7ec4487cb5332a821b353451c008aa3d4ae.png
-  detection_source: node_modules/puppeteer/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/puppeteer-core/package.json
+  detection_source: node_modules/puppeteer-core/package.json
+  last_updated_by: swadhin1515
+  last_updated_on: 2023-01-07 16:05:52.000000000 Z
+- name: lint-staged
+  description: Lint files staged by git
+  package_url: https://www.npmjs.com/lint-staged
+  version: 13.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cheerio/package.json
+  detection_source: node_modules/cheerio/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: log
@@ -2864,7 +3021,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17960/default_e0b07170ab7d7ea66954ff35fdeaae5255c4c0aa.png
-  detection_source: node_modules/wrappy/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/ansi-styles/package.json
+  detection_source: node_modules/ansi-styles/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: lolex
@@ -2877,7 +3035,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16378/default_9fc2581a53b2f4e6797b1162eca9d9d2f6deee1f.png
-  detection_source_url: node_modules/readable-stream/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/readable-stream/package.json
   detection_source: node_modules/readable-stream/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -2890,6 +3048,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17418/default_bdd3cbd2ffd904a2fe09048437badf6984450361.png
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/unbzip2-stream/package.json
   detection_source: node_modules/unbzip2-stream/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -2902,6 +3061,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17653/default_2b5fe3dc5bfc4e83a84162459ff612ac6febd61a.png
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/readable-stream/package.json
   detection_source: node_modules/readable-stream/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -2915,7 +3075,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17686/default_52c11a434d2ce37281914a7f804e07cf95ab96f7.png
-  detection_source_url: node_modules/cosmiconfig/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cosmiconfig/package.json
   detection_source: node_modules/cosmiconfig/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -2929,8 +3089,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18117/image.png
-  detection_source_url: node_modules/balanced-match/package.json
-  detection_source: node_modules/chalk/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/balanced-match/package.json
+  detection_source: node_modules/balanced-match/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: minify
@@ -2942,6 +3102,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18688/default_97b689c91e523aad5ccec45c3b88d1f9b7cb4b6f.png
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/base64-js/package.json
   detection_source: node_modules/base64-js/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -2955,8 +3116,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16195/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
-  detection_source_url: package-lock.json
-  detection_source: node_modules/minimatch/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/package-lock.json
+  detection_source: node_modules/brace-expansion/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: minimist
@@ -2968,6 +3129,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15918/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/has-flag/package.json
   detection_source: node_modules/has-flag/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -2981,8 +3143,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15881/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: node_modules/chownr/package.json
-  detection_source: node_modules/tar-fs/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/chownr/package.json
+  detection_source: node_modules/chownr/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: mocha-lcov-reporter
@@ -2995,7 +3157,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16120/default_63a34654baee757196ddff2457bd1c9a0dfb7287.png
-  detection_source_url: node_modules/debug/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/debug/package.json
   detection_source: node_modules/debug/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -3009,8 +3171,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16565/default_536789d2630ed352dc721a1c915ab456b7660201.png
-  detection_source_url: package-lock.json
-  detection_source: node_modules/webidl-conversions/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/package-lock.json
+  detection_source: node_modules/debug/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: mv
@@ -3022,7 +3184,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17889/default_788839e3786ca1ccd5da69cc550f25d0129fb180.png
-  detection_source: node_modules/cross-fetch/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/agent-base/package.json
+  detection_source: node_modules/agent-base/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: nan
@@ -3035,7 +3198,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16178/default_0d450fcd03a0343bb89c9b7c3a8cf092daa8c3b9.png
-  detection_source: node_modules/buffer/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/buffer-crc32/package.json
+  detection_source: node_modules/buffer-crc32/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: nock
@@ -3048,7 +3212,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16036/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
-  detection_source_url: node_modules/cross-fetch/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cross-fetch/package.json
   detection_source: node_modules/cross-fetch/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -3061,7 +3225,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17983/default_fc5f66cf44024e173fd07c415d4f30ca58b4cbad.png
-  detection_source: node_modules/yauzl/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@babel/code-frame/package.json
+  detection_source: node_modules/@babel/code-frame/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: node-fetch
@@ -3074,8 +3239,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15978/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
-  detection_source_url: package-lock.json
-  detection_source: node_modules/whatwg-url/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/package-lock.json
+  detection_source: node_modules/cross-fetch/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: np
@@ -3087,7 +3252,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16247/default_5dfc1810d0882ab844578a326bb8bf19e45e7227.png
-  detection_source: node_modules/yauzl/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@babel/code-frame/package.json
+  detection_source: node_modules/@babel/code-frame/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: npm
@@ -3099,7 +3265,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16105/default_5a461d436012a0c4024534aaba303dcdb0297d24.png
-  detection_source: node_modules/yauzl/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@babel/code-frame/package.json
+  detection_source: node_modules/@babel/code-frame/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: nyc
@@ -3112,8 +3279,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15837/default_1d65e37e65b7f80761374f0202776043277d505d.png
-  detection_source_url: node_modules/argparse/package.json
-  detection_source: node_modules/ws/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/argparse/package.json
+  detection_source: node_modules/argparse/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: ol
@@ -3125,7 +3292,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18695/default_ba22650903e999378ab35f8093d2d808f0a46039.png
-  detection_source: node_modules/yauzl/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@babel/code-frame/package.json
+  detection_source: node_modules/@babel/code-frame/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: once
@@ -3138,8 +3306,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16859/default_884deeafc4d4b680b6d9cb7e3759ba2db025e8e7.png
-  detection_source_url: package-lock.json
-  detection_source: node_modules/wrappy/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/package-lock.json
+  detection_source: node_modules/end-of-stream/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: open
@@ -3151,7 +3319,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16245/default_5dfc1810d0882ab844578a326bb8bf19e45e7227.png
-  detection_source: node_modules/unbzip2-stream/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@babel/code-frame/package.json
+  detection_source: node_modules/@babel/code-frame/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: optimist
@@ -3163,7 +3332,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16145/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
-  detection_source: node_modules/pend/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/has-flag/package.json
+  detection_source: node_modules/has-flag/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: os
@@ -3175,7 +3345,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17784/default_b760b4f955878b0055c02bde0608c2f01e7d4f4f.png
-  detection_source: node_modules/yauzl/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@babel/code-frame/package.json
+  detection_source: node_modules/@babel/code-frame/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: pad
@@ -3187,7 +3358,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18387/default_443ead48d03f7b1fc57a05db4ff2c559c3e54f5e.png
-  detection_source: node_modules/brace-expansion/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/ansi-styles/package.json
+  detection_source: node_modules/ansi-styles/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: parse
@@ -3199,7 +3371,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18631/default_9435962787d899b43c107b26a450d4a5a0784dc8.png
-  detection_source: node_modules/tar-stream/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@babel/code-frame/package.json
+  detection_source: node_modules/@babel/code-frame/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: parse5
@@ -3212,8 +3385,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16753/default_c11d90814ded8fcd305b22fdc42b42a3111f1f6d.png
-  detection_source_url: package-lock.json
-  detection_source: node_modules/parse5/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/package-lock.json
+  detection_source: node_modules/cheerio/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: path
@@ -3225,7 +3398,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16082/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
-  detection_source: node_modules/ws/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cheerio/package.json
+  detection_source: node_modules/cheerio/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: path-is-absolute
@@ -3238,8 +3412,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17605/default_e98b11d23d67b728bd1f3e02eba62d97a55febbd.png
-  detection_source_url: package-lock.json
-  detection_source: node_modules/path-is-absolute/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/package-lock.json
+  detection_source: node_modules/glob/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: pg
@@ -3251,7 +3425,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16197/default_3d197518f6bb529bfcc1b685e2cefbdfe83ff108.png
-  detection_source: node_modules/pend/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/js-tokens/package.json
+  detection_source: node_modules/js-tokens/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: phantom
@@ -3263,7 +3438,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17469/default_2a4dc012d9584af49ba34825451ae7a5a8d75e4b.png
-  detection_source: node_modules/yauzl/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@babel/code-frame/package.json
+  detection_source: node_modules/@babel/code-frame/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: pkg
@@ -3275,7 +3451,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17535/default_1d2902e8f9c84259702671591379572493b9009b.png
-  detection_source: node_modules/parent-module/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/js-yaml/package.json
+  detection_source: node_modules/js-yaml/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: platform
@@ -3287,6 +3464,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18335/default_cef8b737c55fccc3604e91ce246aef30fc604c73.png
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/whatwg-url/package.json
   detection_source: node_modules/whatwg-url/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -3299,7 +3477,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17761/default_a53af9d6b5a4c8c6e8d5f8494d76a8d2efd3e660.png
-  detection_source: node_modules/ieee754/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@babel/code-frame/package.json
+  detection_source: node_modules/@babel/code-frame/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: pre-push
@@ -3311,6 +3490,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18373/default_6da9f8de2035c7ad69ecf412df9fe80b73f9797a.png
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cosmiconfig/package.json
   detection_source: node_modules/cosmiconfig/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -3323,6 +3503,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17866/default_99a4718ac3f2beccb28962b727b0a38010c9b496.png
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/has-flag/package.json
   detection_source: node_modules/has-flag/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -3336,8 +3517,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16410/default_536789d2630ed352dc721a1c915ab456b7660201.png
-  detection_source_url: package-lock.json
-  detection_source: node_modules/puppeteer/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/package-lock.json
+  detection_source: node_modules/progress/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: promise
@@ -3350,8 +3531,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16093/default_5a461d436012a0c4024534aaba303dcdb0297d24.png
-  detection_source_url: node_modules/node-fetch/package.json
-  detection_source: node_modules/node-fetch/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/node-fetch/package.json
+  detection_source: node_modules/cross-fetch/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: publish
@@ -3363,7 +3544,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18190/default_b56a957d927d2e40d2c7cf9f3588b95c4df2c97c.png
-  detection_source: node_modules/whatwg-url/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@babel/code-frame/package.json
+  detection_source: node_modules/@babel/code-frame/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: pug
@@ -3375,6 +3557,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16227/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/brace-expansion/package.json
   detection_source: node_modules/brace-expansion/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -3388,8 +3571,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16623/default_cc0f40a737548852d2ee666c132c258c9a2c0cad.png
-  detection_source_url: package-lock.json
-  detection_source: node_modules/tar-fs/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/package-lock.json
+  detection_source: node_modules/end-of-stream/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: puppeteer
@@ -3402,8 +3585,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16134/default_73326c44fbfa7369fd17573edb113e5d849468bc.png
-  detection_source_url: package-lock.json
-  detection_source: package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/package-lock.json
+  detection_source: node_modules/cosmiconfig/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: qs
@@ -3415,7 +3598,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16125/default_def3edb85d7fbd20200a5cd7d0a1679e31bc8b3d.png
-  detection_source: node_modules/whatwg-url/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@types/node/package.json
+  detection_source: node_modules/@types/node/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: raf
@@ -3427,7 +3611,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16199/default_fef27d1523ac1844fc00e83e47bddd8898ff8a89.png
-  detection_source: node_modules/tar-fs/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/agent-base/package.json
+  detection_source: node_modules/agent-base/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: rc
@@ -3439,7 +3624,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16813/default_5c6919c5e02b8e6c83f3a2b23db5b6962e3caca0.png
-  detection_source: node_modules/yauzl/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@babel/code-frame/package.json
+  detection_source: node_modules/@babel/code-frame/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: react-native
@@ -3451,7 +3637,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16064/default_5a461d436012a0c4024534aaba303dcdb0297d24.png
-  detection_source: node_modules/cross-fetch/polyfill/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cross-fetch/package.json
+  detection_source: node_modules/cross-fetch/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: read
@@ -3463,7 +3650,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17342/default_66bbb2a75a0234b1bfceaa99b8e82825fa7b8284.png
-  detection_source: node_modules/whatwg-url/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@babel/helper-validator-identifier/package.json
+  detection_source: node_modules/@babel/helper-validator-identifier/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: readable-stream
@@ -3476,8 +3664,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16322/default_97104dc50154593d2dde1d791400955934c9c715.png
-  detection_source_url: package-lock.json
-  detection_source: node_modules/util-deprecate/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/package-lock.json
+  detection_source: node_modules/bl/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: recast
@@ -3490,7 +3678,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17195/default_183829c5079b84333a720d8590a328efc043ba0e.png
-  detection_source_url: node_modules/whatwg-url/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/whatwg-url/package.json
   detection_source: node_modules/whatwg-url/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -3503,7 +3691,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18418/default_4d27e57a415c059481cbe1fd0734523c261d311a.png
-  detection_source: node_modules/brace-expansion/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/balanced-match/package.json
+  detection_source: node_modules/balanced-match/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: remark
@@ -3515,6 +3704,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16952/default_caea01ce44a5fd1bb200d8fc0f8f2a1695b4e569.png
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cosmiconfig/package.json
   detection_source: node_modules/cosmiconfig/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -3528,8 +3718,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15823/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
-  detection_source_url: node_modules/tr46/package.json
-  detection_source: node_modules/yauzl/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/tr46/package.json
+  detection_source: node_modules/@babel/code-frame/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
   vulnerabilities:
@@ -3554,7 +3744,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16128/default_63a34654baee757196ddff2457bd1c9a0dfb7287.png
-  detection_source: node_modules/yauzl/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@babel/code-frame/package.json
+  detection_source: node_modules/@babel/code-frame/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: resolve-from
@@ -3567,8 +3758,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17861/default_78858facb60c08d15198eb69a6c7f48463f2c09f.png
-  detection_source_url: package-lock.json
-  detection_source: node_modules/resolve-from/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/package-lock.json
+  detection_source: node_modules/chalk/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: rimraf
@@ -3581,8 +3772,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: package-lock.json
-  detection_source: node_modules/tar-fs/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/package-lock.json
+  detection_source: node_modules/agent-base/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: rollup-plugin-babel
@@ -3595,7 +3786,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15877/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: node_modules/node-fetch/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/node-fetch/package.json
   detection_source: node_modules/node-fetch/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -3609,7 +3800,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18285/default_14d018f911261a59bddc0d862496e58cd91c1853.png
-  detection_source_url: node_modules/cross-fetch/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cross-fetch/package.json
   detection_source: node_modules/cross-fetch/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -3623,8 +3814,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16078/default_c7b204838197013798409fa2b4dafce450edc7fb.png
-  detection_source_url: node_modules/cross-fetch/package.json
-  detection_source: node_modules/js-yaml/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cross-fetch/package.json
+  detection_source: node_modules/cross-fetch/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: s3
@@ -3636,7 +3827,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18491/default_0f684fdba52879fd48ceb8876e4283627899355a.png
-  detection_source: node_modules/readable-stream/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cheerio-select/package.json
+  detection_source: node_modules/cheerio-select/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: safe-buffer
@@ -3649,10 +3841,31 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16801/default_dc62f5e9b636403c2d19676924f5b6b881abcac8.png
-  detection_source_url: package-lock.json
-  detection_source: node_modules/string_decoder/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/package-lock.json
+  detection_source: node_modules/safe-buffer/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
+- name: semantic-release
+  description: Automated semver compliant package publishing
+  package_url: https://www.npmjs.com/semantic-release
+  version: 18.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15935/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/lines-and-columns/package.json
+  detection_source: node_modules/lines-and-columns/package.json
+  last_updated_by: swadhin1515
+  last_updated_on: 2023-01-07 16:05:52.000000000 Z
+  vulnerabilities:
+  - name: Exposure of Sensitive Information to an Unauthorized Actor in semantic-release
+    cve_id: CVE-2022-31051
+    cve_url: https://github.com/advisories/GHSA-x2pg-mjhr-2m5x
+    detected_date: Jun 10
+    severity: moderate
+    first_patched: 19.0.3
 - name: serve
   description: Static file serving and directory listing
   package_url: https://www.npmjs.com/serve
@@ -3662,7 +3875,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16484/default_73c88a18b684e01cbdbf945631a40a44aff5a777.png
-  detection_source: node_modules/ws/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cheerio/package.json
+  detection_source: node_modules/cheerio/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: serve-index
@@ -3675,7 +3889,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17299/default_78541a280e8cac42279d6c363e71e5b8f462e962.png
-  detection_source_url: node_modules/cross-fetch/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cross-fetch/package.json
   detection_source: node_modules/cross-fetch/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -3689,7 +3903,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15897/default_1d65e37e65b7f80761374f0202776043277d505d.png
-  detection_source_url: node_modules/js-yaml/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/js-yaml/package.json
   detection_source: node_modules/js-yaml/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -3716,8 +3930,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15871/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: node_modules/error-ex/package.json
-  detection_source: node_modules/is-arrayish/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/error-ex/package.json
+  detection_source: node_modules/error-ex/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: source-map
@@ -3729,6 +3943,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16339/default_97104dc50154593d2dde1d791400955934c9c715.png
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cosmiconfig/package.json
   detection_source: node_modules/cosmiconfig/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -3742,7 +3957,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16847/default_9a5182350af29cb82b3344853e865051f508ac6c.png
-  detection_source_url: node_modules/buffer/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/buffer/package.json
   detection_source: node_modules/buffer/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -3755,7 +3970,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18455/default_d8e945bfec4c4a608fb0493abf73c9ec1cffc9a2.png
-  detection_source: node_modules/yauzl/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@babel/code-frame/package.json
+  detection_source: node_modules/@babel/code-frame/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: standard
@@ -3768,8 +3984,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15878/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: node_modules/bl/package.json
-  detection_source: node_modules/tar-stream/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/bl/package.json
+  detection_source: node_modules/base64-js/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: standard-version
@@ -3782,7 +3998,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16053/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
-  detection_source_url: node_modules/cross-fetch/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cross-fetch/package.json
   detection_source: node_modules/cross-fetch/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -3795,6 +4011,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18478/default_6441f53d6a389f92c1e16b01717cd1d37a1809fd.png
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cosmiconfig/package.json
   detection_source: node_modules/cosmiconfig/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -3807,7 +4024,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18008/default_d8756eea8d13a271fb42437ffb36c0a116d72925.png
-  detection_source: node_modules/yauzl/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/bl/package.json
+  detection_source: node_modules/bl/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: string
@@ -3820,7 +4038,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16825/default_dc62f5e9b636403c2d19676924f5b6b881abcac8.png
-  detection_source: node_modules/string_decoder/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@babel/highlight/package.json
+  detection_source: node_modules/@babel/highlight/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: strip-ansi
@@ -3833,8 +4052,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16331/default_97104dc50154593d2dde1d791400955934c9c715.png
-  detection_source_url: node_modules/@babel/code-frame/package.json
-  detection_source: node_modules/@babel/highlight/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@babel/code-frame/package.json
+  detection_source: node_modules/@babel/code-frame/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: supports-color
@@ -3847,8 +4066,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17084/default_23002b02644a8cb313a0f53f43df271731022a9e.png
-  detection_source_url: package-lock.json
-  detection_source: node_modules/supports-color/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/package-lock.json
+  detection_source: node_modules/chalk/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: table
@@ -3860,7 +4079,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17937/default_40b5ae806e118a20c1717c75a46652a7358d8b42.png
-  detection_source: node_modules/htmlparser2/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/end-of-stream/package.json
+  detection_source: node_modules/end-of-stream/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: tap
@@ -3873,8 +4093,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16027/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
-  detection_source_url: node_modules/buffer-crc32/package.json
-  detection_source: node_modules/wrappy/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/buffer-crc32/package.json
+  detection_source: node_modules/balanced-match/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: tape
@@ -3887,8 +4107,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15856/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: node_modules/balanced-match/package.json
-  detection_source: node_modules/unbzip2-stream/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/balanced-match/package.json
+  detection_source: node_modules/balanced-match/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: tape-run
@@ -3901,7 +4121,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17243/default_8da30b412bf0dbb63f862bee0dfab0a32df2fb69.png
-  detection_source_url: node_modules/unbzip2-stream/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/unbzip2-stream/package.json
   detection_source: node_modules/unbzip2-stream/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -3914,7 +4134,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16466/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
-  detection_source: node_modules/through/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/bl/package.json
+  detection_source: node_modules/bl/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: tar-fs
@@ -3927,8 +4148,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17431/default_f52a9ea80d1a46080182faf142d844b81ca11aa6.png
-  detection_source_url: package-lock.json
-  detection_source: node_modules/tar-stream/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/package-lock.json
+  detection_source: node_modules/chownr/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: tar-stream
@@ -3941,8 +4162,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18168/default_77d2e8738857baa38b19bd635d4e8653809e03e4.png
-  detection_source_url: package-lock.json
-  detection_source: node_modules/tar-stream/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/package-lock.json
+  detection_source: node_modules/bl/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: temp
@@ -3954,7 +4175,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16400/default_9ae0e75ed749aca83d89f7e1ccb309be2bfc610e.png
-  detection_source: node_modules/puppeteer-core/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/chalk/package.json
+  detection_source: node_modules/chalk/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: terser
@@ -3966,7 +4188,21 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16562/default_536789d2630ed352dc721a1c915ab456b7660201.png
-  detection_source: node_modules/js-yaml/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cross-fetch/package.json
+  detection_source: node_modules/cross-fetch/package.json
+  last_updated_by: swadhin1515
+  last_updated_on: 2023-01-07 16:05:52.000000000 Z
+- name: test
+  description: ''
+  package_url: https://www.npmjs.com/test
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18204/default_329699d382cad74e0d389300999bd267b9699d3f.png
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/agent-base/package.json
+  detection_source: node_modules/agent-base/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: through
@@ -3979,8 +4215,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16309/default_8b65a873fd3277d73483d6846fa38192391abf23.png
-  detection_source_url: package-lock.json
-  detection_source: node_modules/unbzip2-stream/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/package-lock.json
+  detection_source: node_modules/buffer/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: through2
@@ -3993,7 +4229,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15948/default_fdb56d0865cbc86d9157d5e33f9313d760ed0e83.png
-  detection_source_url: node_modules/buffer/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/buffer/package.json
   detection_source: node_modules/buffer/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -4008,8 +4244,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15864/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: node_modules/cheerio-select/package.json
-  detection_source: node_modules/nth-check/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cheerio-select/package.json
+  detection_source: node_modules/cheerio-select/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: ts-node
@@ -4022,8 +4258,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: node_modules/cheerio/package.json
-  detection_source: node_modules/entities/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cheerio/package.json
+  detection_source: node_modules/cheerio/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: tsc
@@ -4035,7 +4271,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18739/default_45da7a7c78da21b4de04db19cc949c3490185f5e.png
-  detection_source: node_modules/puppeteer/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/agent-base/package.json
+  detection_source: node_modules/agent-base/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: tsd
@@ -4048,8 +4285,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16858/default_21db97bdb9f4092d80f256d3afec4658fbafe443.png
-  detection_source_url: node_modules/callsites/package.json
-  detection_source: node_modules/path-type/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/callsites/package.json
+  detection_source: node_modules/callsites/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: typedoc
@@ -4062,8 +4299,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15983/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: node_modules/cheerio/package.json
-  detection_source: node_modules/entities/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cheerio/package.json
+  detection_source: node_modules/cheerio/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: typings
@@ -4075,7 +4312,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16198/default_b4f5b6f31c5ab1ffee4bacf20842cd41a8f2658d.png
-  detection_source: node_modules/base64-js/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/agent-base/package.json
+  detection_source: node_modules/agent-base/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: uglify
@@ -4087,7 +4325,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18097/image.png
-  detection_source: node_modules/unbzip2-stream/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/buffer/package.json
+  detection_source: node_modules/buffer/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: uglify-js
@@ -4100,8 +4339,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15900/default_1d65e37e65b7f80761374f0202776043277d505d.png
-  detection_source_url: node_modules/buffer/package.json
-  detection_source: node_modules/unbzip2-stream/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/buffer/package.json
+  detection_source: node_modules/buffer/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: uglifyjs
@@ -4113,7 +4352,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16624/default_f7592cb347fae67ce7c7f221ddd5fd2cb0afc28f.png
-  detection_source: node_modules/unbzip2-stream/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/buffer/package.json
+  detection_source: node_modules/buffer/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: uid
@@ -4125,6 +4365,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18239/default_b102609c7a7fb86f3c2ca3ec026f3011d275978b.png
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cross-fetch/package.json
   detection_source: node_modules/cross-fetch/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -4137,7 +4378,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16811/default_768abdabb94806c932ace6262b6bbc8241907245.png
-  detection_source: node_modules/yauzl/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/extract-zip/package.json
+  detection_source: node_modules/extract-zip/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: url
@@ -4149,7 +4391,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16462/default_89ba91277e3434b03295bb11d22736632df1d04f.png
-  detection_source: node_modules/yauzl/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@babel/code-frame/package.json
+  detection_source: node_modules/@babel/code-frame/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: user
@@ -4161,7 +4404,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17329/default_33c3173e7d0e91f7cea0eab9883ca83b157bd4a5.png
-  detection_source: node_modules/through/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cheerio-select/package.json
+  detection_source: node_modules/cheerio-select/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: utf-8-validate
@@ -4174,7 +4418,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17898/default_3bc64391130859f94a137a7dc6cb87cd54da546b.png
-  detection_source_url: node_modules/ws/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/ws/package.json
   detection_source: node_modules/ws/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -4187,6 +4431,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17864/default_99a4718ac3f2beccb28962b727b0a38010c9b496.png
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@babel/code-frame/package.json
   detection_source: node_modules/@babel/code-frame/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -4199,7 +4444,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16507/default_55f3303d620c93eecbee69c43373d484f2be492f.png
-  detection_source: node_modules/ws/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cheerio-select/package.json
+  detection_source: node_modules/cheerio-select/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: validator
@@ -4211,7 +4457,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16255/default_fef27d1523ac1844fc00e83e47bddd8898ff8a89.png
-  detection_source: node_modules/@babel/highlight/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@babel/helper-validator-identifier/package.json
+  detection_source: node_modules/@babel/helper-validator-identifier/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: verb
@@ -4223,6 +4470,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17845/default_7e49ed9d84206a0a241a2a0e7e3f63b8f9585401.png
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cosmiconfig/package.json
   detection_source: node_modules/cosmiconfig/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -4235,7 +4483,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18118/image.png
-  detection_source: node_modules/progress/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/debug/package.json
+  detection_source: node_modules/debug/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: warning
@@ -4247,7 +4496,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16555/default_ebd83b4f0415be108d977ea72558b13fd7c5283d.png
-  detection_source: node_modules/extract-zip/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/chalk/package.json
+  detection_source: node_modules/chalk/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: watch
@@ -4259,7 +4509,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16280/default_97104dc50154593d2dde1d791400955934c9c715.png
-  detection_source: node_modules/lines-and-columns/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cosmiconfig/package.json
+  detection_source: node_modules/cosmiconfig/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: wd
@@ -4271,7 +4522,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17450/default_8c4651c288471a00b2fd6f2055b6de29cb9a049d.png
-  detection_source: node_modules/supports-color/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/domelementtype/package.json
+  detection_source: node_modules/domelementtype/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: webpack-cli
@@ -4284,7 +4536,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15826/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: node_modules/cross-fetch/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cross-fetch/package.json
   detection_source: node_modules/cross-fetch/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -4298,6 +4550,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16782/default_6e51a44775c61dcb2888547ad406a2f0cf2c344e.png
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/ws/package.json
   detection_source: node_modules/ws/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -4311,7 +4564,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16094/default_63a34654baee757196ddff2457bd1c9a0dfb7287.png
-  detection_source_url: node_modules/cross-fetch/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cross-fetch/package.json
   detection_source: node_modules/cross-fetch/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -4324,6 +4577,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16550/default_50be6a65e5f7390c20dda2f19371abc1271db012.png
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/end-of-stream/package.json
   detection_source: node_modules/end-of-stream/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -4336,6 +4590,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16482/default_482cf308e8fc087eee8e154f29cc142c834abc51.png
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/tar-stream/package.json
   detection_source: node_modules/tar-stream/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -4349,7 +4604,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18762/default_b057657dca80f65f97b5bbe8ba405ffa92071739.png
-  detection_source: node_modules/nth-check/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/buffer/package.json
+  detection_source: node_modules/buffer/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: xhr
@@ -4361,6 +4617,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17598/default_ce23f9fa63028502fe46082904fea3786d97bed3.png
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cross-fetch/package.json
   detection_source: node_modules/cross-fetch/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -4373,7 +4630,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18460/default_5ff724c0ff89bb42698aa80ef3403008cb0d8f72.png
-  detection_source: node_modules/htmlparser2/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/dom-serializer/package.json
+  detection_source: node_modules/dom-serializer/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: xo
@@ -4386,8 +4644,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16016/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
-  detection_source_url: node_modules/callsites/package.json
-  detection_source: node_modules/supports-color/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/callsites/package.json
+  detection_source: node_modules/ansi-styles/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: xtend
@@ -4399,7 +4657,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16315/default_aa91da3cee4d961f0eea8ca5de77f399ec7ec794.png
-  detection_source: node_modules/ms/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cross-fetch/package.json
+  detection_source: node_modules/cross-fetch/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: yaml
@@ -4411,7 +4670,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17426/default_4036a97a759f3ed3ec649b3a5fa230fe4d064a6a.png
-  detection_source: node_modules/ws/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/argparse/package.json
+  detection_source: node_modules/argparse/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: yargs
@@ -4424,7 +4684,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15887/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
-  detection_source_url: node_modules/cross-fetch/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/cross-fetch/package.json
   detection_source: node_modules/cross-fetch/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
@@ -4438,8 +4698,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18448/default_31e3dc8ee5066945286d4e7345d470ac3863ee5a.png
-  detection_source_url: package-lock.json
-  detection_source: node_modules/yauzl/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/package-lock.json
+  detection_source: node_modules/@types/node/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
 - name: yo
@@ -4451,6 +4711,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17899/default_3bc64391130859f94a137a7dc6cb87cd54da546b.png
-  detection_source: node_modules/tar-stream/package.json
+  detection_source_url: https://github.com/swadhin1515/node/blob/youtube-data-automation/node_modules/@types/node/package.json
+  detection_source: node_modules/@types/node/package.json
   last_updated_by: swadhin1515
   last_updated_on: 2023-01-07 16:05:52.000000000 Z
